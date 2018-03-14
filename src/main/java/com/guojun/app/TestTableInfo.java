@@ -19,7 +19,7 @@ import java.util.Map;
  * 
  */
 public class TestTableInfo {
-    
+    11
     private static String url = "jdbc:mysql://localhost:3306/guojun?characterEncoding=UTF-8&amp;useUnicode=true";
     private static String user = "root";
     private static String pwd = "root";
